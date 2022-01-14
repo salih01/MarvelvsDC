@@ -67,11 +67,6 @@ struct HomeView: View {
                 .controlSize(.large)
                 .shadow(radius: 30)
                 
-                
-
-                
-
-                
             }
         }
         
