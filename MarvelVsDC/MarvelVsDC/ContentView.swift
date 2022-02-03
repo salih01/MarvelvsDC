@@ -18,9 +18,8 @@ struct ContentView: View {
             }else {
                 HomeView()
             }
-        }
-        
-        }
+        }   
+      }
     }
 
 struct ContentView_Previews: PreviewProvider {
